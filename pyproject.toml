@@ -1,0 +1,18 @@
+[project]
+name = "wastewater"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "mplcursors>=0.6",
+    "onnx>=1.17.0",
+    "onnxruntime>=1.20.1",
+    "opencv-python>=4.11.0.86",
+    "pycocotools>=2.0.8",
+    "scikit-image>=0.25.2",
+    "scikit-learn>=1.6.1",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+]
